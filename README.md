@@ -18,8 +18,6 @@ https://github.com/tawnkramer/sdsandbox
   See https://en.wikipedia.org/wiki/Cross-ratio. 
   
 - compute the angle theta between the car and the solid
-  lines.
-  
-- recommend a steering angle of minus theta
+  lines. This is the recommended steering angle.
 
 
